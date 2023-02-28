@@ -1,0 +1,33 @@
+{
+  "name": "pluralize-it",
+  "version": "1.0.0",
+  "description": "Pluralize a single word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexprabhat/pluralize-it.git"
+  },
+  "author": "Alex Prabhat Bara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexprabhat/pluralize-it/issues"
+  },
+  "homepage": "https://github.com/alexprabhat/pluralize-it#readme",
+  "exports": "./index.js",
+  "type": "module",
+  "keywords": [
+		"plural",
+		"plurals",
+		"pluralize",
+		"singular",
+		"count",
+		"word",
+		"string",
+		"irregular",
+		"noun",
+		"nouns"
+	]
+}
