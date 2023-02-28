@@ -1,6 +1,6 @@
 {
   "name": "pluralize-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pluralize a single word",
   "main": "index.js",
   "scripts": {
