@@ -20,7 +20,7 @@ The word to pluralize.
 
 #### plural
 
-Type: `string`
+Type: `string`\
 Default:
 
 - Irregular nouns will use this [list](https://github.com/sindresorhus/irregular-plurals/blob/main/irregular-plurals.json).
@@ -39,6 +39,6 @@ import pluralize from "pluralize-it";
 pluralize("apple");
 > 'rainbows'
 
-pluralize("alumnus");
-> 'alumni'
+pluralize("ALUMNUS");
+> 'ALUMNI'
 ```
